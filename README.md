@@ -1,2 +1,0 @@
-# lwthesischallenge
-Thesis Challenge
